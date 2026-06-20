@@ -1,5 +1,5 @@
 
-# 🏦 Secure Bank Management System (Python CLI)
+# Core Banking Ledger System (Python CLI)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JSON](https://img.shields.io/badge/Data-JSON-lightgrey?style=for-the-badge)
